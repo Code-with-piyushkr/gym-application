@@ -1,1 +1,1 @@
-#This is GYM Application<br>
+#This is the GYM Application<br>
